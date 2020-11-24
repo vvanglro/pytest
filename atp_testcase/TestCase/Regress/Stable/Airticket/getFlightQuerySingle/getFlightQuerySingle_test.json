@@ -1,0 +1,17 @@
+{
+  "test": [
+    {
+      "case": "第一条:验证正确的参数",
+      "headers": {
+        "Accept": "application/json, text/plain, */*"
+      },
+      "querystring": {
+      },
+      "data": {
+      },
+      "expected": {
+        "code": 1000
+      }
+    }
+  ]
+}

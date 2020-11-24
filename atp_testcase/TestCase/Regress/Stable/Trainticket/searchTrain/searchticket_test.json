@@ -1,0 +1,17 @@
+{
+  "test": [
+    {
+      "case": "第一条用例数据",
+      "headers": {
+        "Accept": "application/json, text/plain, */*"
+      },
+      "querystring": {
+      },
+      "data": {
+      },
+      "expected": {
+        "code": 1
+      }
+    }
+  ]
+}
